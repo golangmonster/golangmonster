@@ -1,6 +1,6 @@
 ###
 <div align="center">
-   <img height="320" width="640" src="https://github.com/chudik63/chudik63/blob/main/gif4.gif">
+   <img height="320" width="640" src="https://github.com/chudik63/chudik63/blob/main/adidas-istoriya.jpg">
 </div>
 
 <p align="center"> 
